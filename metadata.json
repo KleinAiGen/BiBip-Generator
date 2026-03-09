@@ -1,0 +1,5 @@
+{
+  "name": "XAI Ag3nt - Crypto DevOps",
+  "description": "An automated BIP-39 workflow and verification sandbox powered by Google Gemini. Educational utility only.",
+  "requestFramePermissions": []
+}
